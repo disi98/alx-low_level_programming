@@ -1,19 +1,12 @@
 #include <stdio.h>
 
 /**
- * main-entry point
+ * main - Entry point
  *
- * return
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	/**
-	 * Initialize the datatypes for any varriables, say i for int
-	 * li for long int
-	 * lli for long long int
-	 * c for char
-	 * f for float
-	 */
 	int i;
 	long int li;
 	long long int lli;
