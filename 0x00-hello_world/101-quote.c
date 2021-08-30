@@ -9,8 +9,8 @@
 int main(void)
 {
 	char *h = "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
-	while (*h)
 
+	while (*h)
 		putchar(*h++);
 	putchar('\n');
 	return (1);
