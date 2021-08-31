@@ -1,19 +1,20 @@
+#include <unistd.h>
 #include "main.h"
 
 /**
- * main - starting point
+ * main - refers to main header
  *
- * Return: always (0)
+ * Return: 0.
  */
 int main(void)
 {
-	char c[9] = "_putchar";
+	char word[9] = "_putchar";
 	int i;
 
 	for (i = 0; i < 9; i++)
-	{
-		_putchar(c[i]);
-	}
+		_putchar(word[i]);
 	_putchar('\n');
+
 	return (0);
 }
+
