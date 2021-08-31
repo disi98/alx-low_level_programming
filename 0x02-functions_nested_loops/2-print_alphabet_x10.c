@@ -2,11 +2,9 @@
 
 /**
  * print_alphabet_x10 - Check holberton
- * Description: _putchar function used to print
- * 
- * Return: Nothing.
+ * Description: _putchar printing
+ * * Return: Nothing.
  */
-
 void print_alphabet_x10(void)
 {
 	char i;
