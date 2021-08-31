@@ -2,7 +2,7 @@
 
 /**
  * _islower - refers to the main header
- * c: input character
+ * @c: input character
  * Description: _putchar function definedfor printing
  * Return: 1 if is lowercase or 0 if is uppercase
  */
