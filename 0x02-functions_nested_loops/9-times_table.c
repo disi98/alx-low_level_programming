@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_table - REFERS TO THE MAIN HEADER 
+ * times_table - REFERS TO THE MAIN HEADER
  * Description: It prints 9 times table starting with 0
  * Return: Nothing.
  */
