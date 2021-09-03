@@ -2,7 +2,6 @@
 
 /**
  * print_numbers - refers to header main
- * _putchar - prints the required results
  *
  * Return: always 0 success
  */
