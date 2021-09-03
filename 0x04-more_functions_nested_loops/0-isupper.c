@@ -1,4 +1,5 @@
 #include "holberton.h"
+#include "main.h"
 
 /**
  * _isupper - A checks for capitalized char.
@@ -14,10 +15,10 @@ int _isupper(int c)
 	{
 		if (c == caps)
 		{
-			isupper = 1;
+			_isupper = 1;
 			break;
 		}
 	}
 
-	return (isupper);
+	return (_isupper);
 }
