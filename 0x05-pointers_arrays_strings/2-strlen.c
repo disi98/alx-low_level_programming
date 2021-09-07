@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strien - function that returns len of str
+ * _strlen - function that returns len of str
  * @s: input parameter of type int
  * Return: always 0
  */
