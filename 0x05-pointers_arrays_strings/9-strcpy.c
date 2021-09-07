@@ -4,7 +4,7 @@
  * _strcpy - copy func
  * @dest: input oftype char
  * @src: input of type char
- * Return: always 0
+ * Return: always aux
  */
 char *_strcpy(char *dest, char *src)
 {
@@ -13,4 +13,5 @@ char *_strcpy(char *dest, char *src)
 	while (*src)
 		*dest++ = *src++;
 	return (aux);
+	return (0);
 }
