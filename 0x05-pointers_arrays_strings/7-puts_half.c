@@ -1,7 +1,7 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * puts_half - a function that prints half of a string
+ * puts_half - a function that prints half of a string, followed by a new line.
  * @str: An input string
  * Return: Nothing
  */
@@ -23,4 +23,3 @@ void puts_half(char *str)
 
 	_putchar('\n');
 }
-

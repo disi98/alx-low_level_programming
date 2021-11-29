@@ -4,15 +4,10 @@
 /**
  * main - check the code for Holberton School students.
  *
- * Return: Always 0
+ * Return: Always EXIT_SUCCESS.
  */
 int main(void)
 {
-	char *str;
-	int len;
-
-	str = "Holberton!";
-	len = _strlen(str);
-	printf("%d\n", len);
-	return (0);
+	printf("%d\n", _strlen("Holberton"));
+	return (EXIT_SUCCESS);
 }
